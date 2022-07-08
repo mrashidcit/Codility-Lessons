@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="524bf276-c749-45f3-8593-d830bb9a25c7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/Lesson - 08 - EquiLeader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/out/production/Lesson - 08 - EquiLeader/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - EquiLeader/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/Lesson - 08 - Leader.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/out/production/Lesson - 08 - Leader/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Leader/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/Lesson - 08 - Reading Material.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/out/production/Lesson - 08 - Reading Material/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 08 - Reading Material/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/Lesson - 9 - MaxProfit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/out/production/Lesson - 9 - MaxProfit/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxProfit/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/Lesson - 9 - MaxSliceSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/out/production/Lesson - 9 - MaxSliceSum/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - MaxSliceSum/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/Lesson - 9 - Reading Material.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/out/production/Lesson - 9 - Reading Material/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson - 9 - Reading Material/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/Lesson 07 - Sample Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/out/production/Lesson 07 - Sample Exercise/CounterQueue.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/out/production/Lesson 07 - Sample Exercise/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/src/CounterQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Sample Exercise/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/Lesson 07 - Task 2 - Fish.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/out/production/Lesson 07 - Task 2 - Fish/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 2 - Fish/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/Lesson 07 - Task 3 - Nesting.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/out/production/Lesson 07 - Task 3 - Nesting/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 3 - Nesting/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/Lesson 07 - Task 4 - StoneWall.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/out/production/Lesson 07 - Task 4 - StoneWall/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 07 - Task 4 - StoneWall/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/Lesson 10 - CountFactors.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - CountFactors/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson 10 - Flags.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/Lesson 10 - MinPerimeterRectangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - MinPerimeterRectangle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Peaks/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/Lesson 10 - Reading Material.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 10 - Reading Material/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/Lesson 4 - Task 2 - Permutation.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/out/production/Lesson 4 - Task 2 - Permutation/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 2 - Permutation/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/Lesson 4 - Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/out/production/Lesson 4 - Task 3/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/Lesson 4 - Task 4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/out/production/Lesson 4 - Task 4/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 4 - Task 4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/Lesson 5 - Task 2 CountDiv.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/out/production/Lesson 5 - Task 2 CountDiv/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 2 CountDiv/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/Lesson 5 - Task 3 - GenomicRangeQuery.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/out/production/Lesson 5 - Task 3 - GenomicRangeQuery/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 3 - GenomicRangeQuery/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/Lesson 5 - Task 4 - MinAvgTwoSlice.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/out/production/Lesson 5 - Task 4 - MinAvgTwoSlice/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 5 - Task 4 - MinAvgTwoSlice/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/Lesson 6 - Reading Material - MergeSort.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/out/production/Lesson 6 - Reading Material - MergeSort/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/out/production/Lesson 6 - Reading Material - MergeSort/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material - MergeSort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/Lesson 6 - Reading Material.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/out/production/Lesson 6 - Reading Material/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Reading Material/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/Lesson 6 - Task 1 - Distinct.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/out/production/Lesson 6 - Task 1 - Distinct/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 1 - Distinct/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/Lesson 6 - Task 2 - MaxProductOfThree - 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/out/production/Lesson 6 - Task 2 - MaxProductOfThree - 1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree - 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/Lesson 6 - Task 2 - MaxProductOfThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/out/production/Lesson 6 - Task 2 - MaxProductOfThree/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/out/production/Lesson 6 - Task 2 - MaxProductOfThree/MergeSort.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 2 - MaxProductOfThree/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/Lesson 6 - Task 3 - Triangle.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/out/production/Lesson 6 - Task 3 - Triangle/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 3 - Triangle/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/Lesson 6 - Task 4 - NumberOfDiscIntersections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/out/production/Lesson 6 - Task 4 - NumberOfDiscIntersections/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson 6 - Task 4 - NumberOfDiscIntersections/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/Lesson3 - Task 3 - 1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/out/production/Lesson3 - Task 3 - 1/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3 - 1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3/Lesson3 - Task 3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lesson3 - Task 3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/Lessons 07 - Task 1 - Brackets.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/out/production/Lessons 07 - Task 1 - Brackets/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lessons 07 - Task 1 - Brackets/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2BaVx3oBAMlhUx5OrNQByx4XLOu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Lesson 10 - Flags" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="524bf276-c749-45f3-8593-d830bb9a25c7" name="Changes" comment="" />
+      <created>1657144427331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1657144427331</updated>
+    </task>
+    <servers />
+  </component>
+</project>
